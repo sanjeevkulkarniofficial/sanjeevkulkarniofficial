@@ -8,11 +8,11 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **KLE PC Jabin Science College, Hubballi** (2025–2027)[cite: 1]
-- 💼 Former **AI/ML Intern** at **HAEGL Technologies PVT LTD**[cite: 1]
-- 🧠 Hands-on with **Machine Learning, Geospatial Filtering, and Metaheuristic Optimization Algorithms**[cite: 1]
-- 📜 Presented research on **Metaheuristic Optimization** at **IEEE ACOIT 2024**[cite: 1]
-- 🎯 Passionate about building robust data science pipelines, recommendation systems, and scalable applications[cite: 1]
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at **KLE PC Jabin Science College, Hubballi** (2025–2027)
+- 💼 Former **AI/ML Intern** at **HAEGL Technologies PVT LTD**
+- 🧠 Hands-on with **Machine Learning, Geospatial Filtering, and Metaheuristic Optimization Algorithms**
+- 📜 Presented research on **Metaheuristic Optimization** at **IEEE ACOIT 2024**
+- 🎯 Passionate about building robust data science pipelines, recommendation systems, and scalable applications
 
 ---
 
