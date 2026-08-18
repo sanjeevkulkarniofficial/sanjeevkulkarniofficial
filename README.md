@@ -44,13 +44,13 @@
 
 ### 📌 Featured Projects & Experience
 
-* **Quick Connect (Hybrid Recommendation System)**[cite: 1]
-  * *HAEGL Technologies PVT LTD*[cite: 1]
-  * Designed a hybrid KNN recommendation system using **Scikit-learn (BallTree)** and **NumPy** for real-time geospatial filtering and personalized vector similarity scoring[cite: 1].
+* **Quick Connect (Hybrid Recommendation System)**
+  * *HAEGL Technologies PVT LTD*
+  * Designed a hybrid KNN recommendation system using **Scikit-learn (BallTree)** and **NumPy** for real-time geospatial filtering and personalized vector similarity scoring.
 
-* **Resource Allocation Optimization**[cite: 1]
-  * Preprocessed large-scale agricultural datasets with **Pandas**[cite: 1].
-  * Implemented nature-inspired metaheuristic algorithms: **Ant Colony Optimization (ACO)**, **Firefly Algorithm**, and **Simulated Annealing**[cite: 1].
+* **Resource Allocation Optimization**
+  * Preprocessed large-scale agricultural datasets with **Pandas**.
+  * Implemented nature-inspired metaheuristic algorithms: **Ant Colony Optimization (ACO)**, **Firefly Algorithm**, and **Simulated Annealing**.
 
 ---
 
