@@ -2,7 +2,7 @@
 
 ### 🎓 MCA Candidate | AI & Machine Learning Enthusiast | Data Science
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=480&lines=MCA+Student+at+KLE+PC+Jabin+Science+College;AI+%26+Machine+Learning+Enthusiast;Python+%26+Django+Developer;Data+Science+%26+Optimization+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&width=480&lines=KLE+PC+Jabin+Science+College;AI+%26+Machine+Learning+Enthusiast;Python+%26+Django+Developer;Data+Science+%26+Optimization+Researcher)](https://git.io/typing-svg)
 
 ---
 
